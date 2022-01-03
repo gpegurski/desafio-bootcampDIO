@@ -1,2 +1,6 @@
-# desafio-bootcampDIO
-Desafio de Projeto sobre Git/GitHub com anotações, resumos e links úteis
+# Desafio de Projeto: Git/GitHub - DIO
+Repositório criado para o desafio do projeto.
+
+### Links úteis:
+[Entendendo a lógica e praticando algormo](https://studio.code.org/s/mc/lessons/1/levels/1)<br>
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
